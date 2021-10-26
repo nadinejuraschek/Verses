@@ -34,7 +34,7 @@
     "marked": "^2.0.0",
     "md5": "^2.3.0",
     "mongodb": "^3.6.2",
-    "sanitize-html": "^2.0.0",
+    "sanitize-html": "^2.3.2",
     "socket.io": "^2.4.0",
     "validator": "^13.1.17",
     "webpack": "^4.44.2",
