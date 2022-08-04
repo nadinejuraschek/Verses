@@ -1,4 +1,6 @@
-# Social Media Clone
+# Verses
+
+Social Media type app that lets users save and share poems with friends.
 
 ## Technologies
 
